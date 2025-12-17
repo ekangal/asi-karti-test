@@ -2,7 +2,7 @@
   "keys": [
     {
       "kty": "EC",
-      "kid": "test-anahtarim-2025",
+      "kid": "xtgu5H_pipjyKHJ_qgUgl-NFHahxuHlGXelwnXoVYlk",
       "use": "sig",
       "alg": "ES256",
       "crv": "P-256",
