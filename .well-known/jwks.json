@@ -1,0 +1,9 @@
+{
+  "kty": "EC",
+  "kid": "test-anahtarim-2025",
+  "use": "sig",
+  "alg": "ES256",
+  "crv": "P-256",
+  "x": "qKlGXlp7uouDPJ2c8DppTefrGlhFMXIyJt7fzw-g4x0",
+  "y": "Qvd-whzsvwIiPFgGVWbGqbhZtAGMSJJxx6Njx9o4dKo"
+}
